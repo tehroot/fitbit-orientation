@@ -1,0 +1,9 @@
+<svg>
+  <text id="geolocation-label" class="sensor-label" x="50%" y="30">Orientation</text>
+  <text id="orientation-data1" class="sensor-data" x="50%" y="52">{ ... }</text>
+  <text id="orientation-data2" class="sensor-data" x="50%" y="74">{ ... }</text>
+  <text id="orientation-data3" class="sensor-data" x="50%" y="96">{ ... }</text>
+  <text id="orientation-data4" class="sensor-data" x="50%" y="118">{ ... }</text>
+  <text id="orientation-data5" class="sensor-data" x="50%" y="130">{ ... }</text>
+</svg>
+
